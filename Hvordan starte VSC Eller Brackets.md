@@ -6,6 +6,7 @@
 
 
 ## 2. Start programmet
+### Søk enten i Finder eller i windows delen av din maskin for å finne programmet.
 
 
 ## 3. Lag en HTML, CSS og Javascript fil
@@ -18,9 +19,11 @@
 <img src="images/høyreklikk-VSC.png"/>
 
 
-## 4. Start live server (Visual Studio Guide for extension)
+## 4. Start live server (Visual Studio Guide må ha extension)
 #### Dette vil starte opp din nettside. Sørg for at du har trykket deg inn på filen som avslutter med ¨.html¨
-#### og så trykk følgende.
+#### og så trykk følgende. Du trenger kun å kjøre en gang, så lenge du lagrer endringene dine ettersom du skriver
+#### noe i programmet vil den oppdatere seg automatisk.
+#### Shortcuts: Mac = CMD + S. Windows = CTRL + S.
 
 ### Brackets: 
 <img src="images/LiveStart-B.png"/>
@@ -30,7 +33,7 @@
 <img src="images/extensions2-VSC.png"/>
 
 ### Visual Studio Code: Lukk programmet og start det opp på nytt.
-### I VSC kan man starte på 2 forskjellige måter:
+### I Visual Studio Code kan man starte på 2 forskjellige måter:
 
 ### 4-1. Trykk inn på html fil og trykk nederst til høyre ¨Go Live¨
 <img src="images/goLive-VSC-ver1.png"/>
@@ -43,6 +46,8 @@
 <img src="images/inspiser.png"/>
 <img src="images/consolewindow.png"/>
 
+
+## 6. Nå er du klar til å kode!
 
 
 
