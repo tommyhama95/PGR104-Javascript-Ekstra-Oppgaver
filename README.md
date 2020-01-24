@@ -12,8 +12,7 @@
 # Oppgaver
 ## Over så vil du se enkelte mappe navn. trykk deg inn for å se forklaringer og oppgaver
 
-### Basics mappen
-#### Her går vi igjennom det grunnleggende som man burde vite med hvordan man lagde variabler igjen og hva du kan forvente å se
-#### når vi koder med Javascript.
+### Basics mappen - IKKE FERDIG
+#### Her går vi igjennom det grunnleggende som man burde vite med hvordan man lagde variabler igjen og hva du kan forvente å se når vi koder med Javascript.
 
 ## Flere under kategorier kommer
