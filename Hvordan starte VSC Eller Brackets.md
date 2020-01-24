@@ -9,9 +9,40 @@
 
 
 ## 3. Lag en HTML, CSS og Javascript fil
-### Visual Studio Code
+### Høyre klikk i vist lokasjon.
 
-<img src="images/inspiser.png" alt="inpiser"/>
+### Brackets:
+<img src="images/høyreklikk-B.png"/>
+
+### Visual Studio Code:
+<img src="images/høyreklikk-VSC.png"/>
+
+
+## 4. Start live server (Visual Studio Guide for extension)
+#### Dette vil starte opp din nettside. Sørg for at du har trykket deg inn på filen som avslutter med ¨.html¨
+#### og så trykk følgende.
+
+### Brackets: 
+<img src="images/LiveStart-B.png"/>
+
+### Visual Studio Code: 
+<img src="images/extensions-VSC.png"/>
+<img src="images/extensions2-VSC.png"/>
+
+### Visual Studio Code: Lukk programmet og start det opp på nytt.
+### I VSC kan man starte på 2 forskjellige måter:
+
+### 4-1. Trykk inn på html fil og trykk nederst til høyre ¨Go Live¨
+<img src="images/goLive-VSC-ver1.png"/>
+
+### 4-2. Høyre klikk på html filen og trykk ¨Open with Live Server¨
+<img src="images/goLive-VSC-ver2.png"/>
+
+
+## 5. Åpne konsoll vinduet i nettleseren (mest vanlgist Chrome)
+<img src="images/inspiser.png"/>
+<img src="images/consolewindow.png"/>
+
 
 
 
