@@ -22,10 +22,12 @@ etter variabel navnet. **Eks: `var message = ;`** og så legger vi til enten en 
 Tekst: `var message = "Hello World!";`
 Tall: `var message = 42;`
 
-```OBS!
+```
+OBS!
 En ting som er greit å vite når det gjelder datatypene tekst og tall (string og integer), så er det 
 at man kan gjøre litt morsomt med de. Man kan sammeligne tallet `42` med teksten `"42"` og 
-Javascript vil si til det er `true` (kommer til dette med `true` og `false` verdier).```
+Javascript vil si til det er `true` (kommer til dette med `true` og `false` verdier).
+```
 
 ### Variabler i Javascript kan bytte verdier
 `var something = "This is my message";`
