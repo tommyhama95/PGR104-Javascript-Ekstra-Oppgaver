@@ -33,6 +33,7 @@ Javascript vil si til det er `true` (kommer til dette med `true` og `false` verd
 `var something = "This is my message";`
 Om vi ser på variabelen over så er dette en string/tekst variabel ettersom jeg har skrevet en tekst med "" rundt det. Dette definerer en tekst/string verdi for javascript. Denne verdien tilhører variabel navnet `something` så lenge den ikke blir definert som noe annet.
 `something = "I just changed it";` <== Ved å skrive denne koden en linje etter deklarasjonen av variabelen something har vi nå endre hva den inneholder. Om jeg skriver ut den nye verdien i en `console.log()` (Eks: `console.log(something);`) så viser den meg i konsoll-vinduet at verdien er endret.
+
 <img src="Basics-Img/bytteAvVariabel.jpg">
 <img src="Basics-Img/bytteAvVariabelKonsoll.jpg">
 
