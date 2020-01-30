@@ -22,11 +22,21 @@ etter variabel navnet. **Eks: `var message = ;`** og så legger vi til enten en 
 Tekst: `var message = "Hello World!";`
 Tall: `var message = 42;`
 
-OBS!
+```OBS!
 En ting som er greit å vite når det gjelder datatypene tekst og tall (string og integer), så er det 
 at man kan gjøre litt morsomt med de. Man kan sammeligne tallet `42` med teksten `"42"` og 
-Javascript vil si til det er `true` (kommer til dette med `true` og `false` verdier).
+Javascript vil si til det er `true` (kommer til dette med `true` og `false` verdier).```
 
+### Variabler i Javascript kan bytte verdier
+`var something = "This is my message";`
+Om vi ser på variabelen over så er dette en string/tekst variabel ettersom jeg har skrevet en tekst med "" rundt det. Dette definerer en tekst/string verdi for javascript. Denne verdien tilhører variabel navnet `something` så lenge den ikke blir definert som noe annet.
+`something = "I just changed it";` <== Ved å skrive denne koden en linje etter deklarasjonen av variabelen something har vi nå endre hva den inneholder. Om jeg skriver ut den nye verdien i en `console.log()` (Eks: `console.log(something);`) så viser den meg i konsoll-vinduet at verdien er endret.
+<img src="Basics-Img/bytteAvVariabel.jpg">
+<img src="Basics-Img/bytteAvVariabelKonsoll.jpg">
 
+Du kan fint også bytte variabelens verdi slik at den inneholder et tall istedenfor. Det som er mest ikke bra praktis med dette er at variabel navnet som vi lager burde gi mening for oss som leser koden å vite hva den inneholder. For eksempel så er ikke variabel navnet `something` bra, den er vag og sier ikke hva den inneholder, men om jeg hadde byttet til `message` ville vi visst at den inneholder en tekst ettersom variabel navnet hinter til at det er en melding om noe.
+
+## End
+### Gå til oppgaver i samme mappe som Basics ligger i
 
 

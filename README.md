@@ -9,7 +9,7 @@
 #### Mail: Send mail til hamtom18@student.kristiania.no 
 
 
-# Oppgaver
+# Tema og oppgaver
 ## Over så vil du se enkelte mappe navn. trykk deg inn for å se forklaringer og oppgaver
 
 ### Basics mappen - IKKE FERDIG
