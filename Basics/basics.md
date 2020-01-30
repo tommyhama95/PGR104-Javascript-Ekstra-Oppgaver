@@ -2,8 +2,8 @@
 
 #### Gjerne lag en HTML og JS fil og skriv mens du leser forklaringene under.
 #### Vi kommer til å bruke en god del ¨console.log()¨ i eksempelene under slik at du kan 
-#### visuelt se det på nettsiden din. Om du ikke vet hvordan gå en side tilbake og trykk på
-#### **"Hvordan starte Visual Studio Code / Brackets med HTML, CSS og JS".**
+#### visuelt se det på nettsiden din. Om du ikke vet hvordan, trykk over der det står "PGR104-Javascript-Ekstra-Oppgaver" og trykk på
+#### **"Hvordan starte VSC Eller Brackets.md.**
 
 ### Hvordan lage en variabel:
 #### For å lage en variabel i Javascript bruker vi nøkkelordet `var`. Når Javascript leser ordet `var`
