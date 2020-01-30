@@ -1,5 +1,7 @@
 # PGR104-Javascript-Ekstra-Oppgaver
 
+## For å lese meldinger eller forklaringer som jeg har laget. Gå inn visse mapper og les deres .md filer :)
+
 #### Jeg kommer til å legge inn forskjellige oppgaver hvor vi gå igjennom det grunnleggende, 
 #### og videre ut til hva du kan gjøre med enkelte variabler, metoder og funksjoner.
 
