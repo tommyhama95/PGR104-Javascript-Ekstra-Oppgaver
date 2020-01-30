@@ -40,6 +40,6 @@ Om vi ser på variabelen over så er dette en string/tekst variabel ettersom jeg
 Du kan fint også bytte variabelens verdi slik at den inneholder et tall istedenfor. Det som er mest ikke bra praktis med dette er at variabel navnet som vi lager burde gi mening for oss som leser koden å vite hva den inneholder. For eksempel så er ikke variabel navnet `something` bra, den er vag og sier ikke hva den inneholder, men om jeg hadde byttet til `message` ville vi visst at den inneholder en tekst ettersom variabel navnet hinter til at det er en melding om noe.
 
 ## End
-### Gå til oppgaver i samme mappe som Basics ligger i
+### Gå index.js i samme mappe for å lese mer og se oppgavene lenger ned
 
 
