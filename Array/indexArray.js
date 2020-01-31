@@ -30,3 +30,5 @@ example = [number32, msg];
 var someArray = ["My name is", "Chocolate", "King of", 42, "Lost in the moment"];
 // Hva blir verdiene som hentes ut?
 // A: 2, B: 1
+
+
