@@ -20,7 +20,8 @@ example = ["number", 324324, 69, "nice", "69"];
 var number32 = 32;
 var msg = "hello";
 example = [number32, msg];
-
+// Men det vil ikke helt være praktisk å blande disse. Da ville vi heller brukt det
+// i objekter
 
 
 
@@ -30,3 +31,9 @@ example = [number32, msg];
 var someArray = ["My name is", "Chocolate", "King of", 42, "Lost in the moment"];
 // Hva blir verdiene som hentes ut?
 // A: 2, B: 1
+
+
+// Oppgave 2
+// Lag et array som heter "nameArray". Legg til selv 2 navn der.
+// Ut i fra forelesningen vi hadde om Array, legg til en ny person via
+// den riktige metoden for å legge inn et navn til. 
