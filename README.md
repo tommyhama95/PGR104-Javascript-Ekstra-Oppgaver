@@ -20,6 +20,8 @@
 ### Array - FERDIG?
 #### Går for oss igjennom arrays, hva de kan brukes til, hvordan de fungerer og mer.
 
-### Object - In Progress
+### Object - FERDIG?
 #### Går for oss igjennom objecter, hva de brukes til, hvordan de fungerer og mer.
 
+### Functions - In Progress
+#### Går igjennom hvordan lage og bruke funksjoner. Legger til noen andre måter å gjøre funksjoner også senere.
