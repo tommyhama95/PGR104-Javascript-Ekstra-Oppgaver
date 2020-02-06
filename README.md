@@ -17,7 +17,7 @@
 ### Basics mappen - FERDIG?
 #### Her går vi igjennom det grunnleggende som man burde vite med hvordan man lagde variabler igjen og hva du kan forvente å se når vi koder med Javascript.
 
-### Array - In Progress
+### Array - FERDIG?
 #### Går for oss igjennom arrays, hva de kan brukes til, hvordan de fungerer og mer.
 
 ### Object - In Progress

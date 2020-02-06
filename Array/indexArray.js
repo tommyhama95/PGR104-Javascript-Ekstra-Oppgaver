@@ -33,10 +33,15 @@ var someArray = ["My name is", "Chocolate", "King of", 42, "Lost in the moment"]
 // A: 2, B: 1
 
 
-<<<<<<< HEAD
 // Oppgave 2
 // Lag et array som heter "nameArray". Legg til selv 2 navn der.
 // Ut i fra forelesningen vi hadde om Array, legg til en ny person via
 // den riktige metoden for å legge inn et navn til. 
-=======
->>>>>>> 8d6678a57a8a17d9b2cd2d956fc71c09cf9ec74c
+
+// 2.A: Fjern det midterste navnet av de 3 navnene du har i Arrayet
+
+// 2.B: Sjekk hvem som ligger på index 1.
+
+// 2.C: Legg til 3 navn til via metoden i første del av oppgaven.
+
+// 2.D: Fjern alle etter personen på index 2
