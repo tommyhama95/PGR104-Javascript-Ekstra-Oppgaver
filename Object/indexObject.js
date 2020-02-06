@@ -24,3 +24,10 @@ example = {
 // og så skrive navnet på propertien
 console.log(example.height); // Denne har nå hentet høyden på huset
 
+// Du kan også legge til nye properties i et objekt ved å skrive navnet på 
+// objektet og så lage navnet til propertien du ønsker å legge en verdi til.
+// Hva enn du skriver etter = blir definert som den nye verdien.
+// Kan også være fra en prompt hvor brukeren selv kan skrive verdien.
+example.myvalue = prompt("Skriv inn noe");
+console.log(example.myvalue);  
+

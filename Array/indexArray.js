@@ -33,7 +33,10 @@ var someArray = ["My name is", "Chocolate", "King of", 42, "Lost in the moment"]
 // A: 2, B: 1
 
 
+<<<<<<< HEAD
 // Oppgave 2
 // Lag et array som heter "nameArray". Legg til selv 2 navn der.
 // Ut i fra forelesningen vi hadde om Array, legg til en ny person via
 // den riktige metoden for å legge inn et navn til. 
+=======
+>>>>>>> 8d6678a57a8a17d9b2cd2d956fc71c09cf9ec74c
