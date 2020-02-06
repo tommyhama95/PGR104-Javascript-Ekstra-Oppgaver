@@ -32,5 +32,4 @@
 ## Youtube videoer
 ### Programming with Mosh -> https://www.youtube.com/watch?v=W6NZfCO5SIk&t=674s
 #### Veldig flink som går igjennom det meste, en ting jeg vil at du skal tenke er at vi i timen bruker var for å deklarere variabler.
-#### I videoene brukes noe som heter let og const, disse brukes mer enn var, men tenk at de skal gjøre det samme. Det eneste er at const kan ikke endres på
-#### verdien vil alltid være det du deklarerte den til å være =) 
+#### I videoene brukes noe som heter let og const, disse brukes mer enn var, men tenk at de skal gjøre det samme. Det eneste er at const kan ikke endres på verdien vil alltid være det du deklarerte den til å være =) 
