@@ -10,6 +10,7 @@
 #### Messenger: Bare søk meg opp.
 #### Mail: Send mail til hamtom18@student.kristiania.no 
 
+#### Om du ønsker å se noen Youtube videoer så sjekk i bunn av denne siden!
 
 # Tema og oppgaver
 ## Over så vil du se enkelte mappe navn. Trykk deg inn for å se forklaringer og oppgaver
@@ -25,3 +26,11 @@
 
 ### Functions - In Progress
 #### Går igjennom hvordan lage og bruke funksjoner. Legger til noen andre måter å gjøre funksjoner også senere.
+
+
+
+## Youtube videoer
+### Programming with Mosh -> https://www.youtube.com/watch?v=W6NZfCO5SIk&t=674s
+#### Veldig flink som går igjennom det meste, en ting jeg vil at du skal tenke er at vi i timen bruker var for å deklarere variabler.
+#### I videoene brukes noe som heter let og const, disse brukes mer enn var, men tenk at de skal gjøre det samme. Det eneste er at const kan ikke endres på
+#### verdien vil alltid være det du deklarerte den til å være =) 
