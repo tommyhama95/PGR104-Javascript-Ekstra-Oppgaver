@@ -84,3 +84,9 @@ function ninjaCall() {
 // 2.B: La funksjonen ta i mot enda et parameter, nå skal nemlig denne funksjonen
 // bli en enkel kalkulator. La de to første parameterne være tall og den siste være
 // hvilken matteoperasjon som skal skje med de to tallene (+, -, / og *).
+
+
+//Oppgave 3
+// Lag et objekt som handler om et dyr. Gi den navn, alder, kjønn, rase og gi den en tom property som heter sounds.
+// Sounds propertien skal være en funksjon som skal gjøre følgende når vi kaller på den. Den skal returnere
+// hvilken lyd dyret lager. 
