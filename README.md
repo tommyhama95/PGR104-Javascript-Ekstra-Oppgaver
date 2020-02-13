@@ -28,6 +28,7 @@
 #### Går igjennom hvordan lage og bruke funksjoner. Legger til noen andre måter å gjøre funksjoner også senere.
 
 ### Condition (if-else and Switch-case)
+#### Går gjennom bruk av if-else og Switch-cases.
 
 
 
