@@ -27,6 +27,8 @@
 ### Functions - In Progress
 #### Går igjennom hvordan lage og bruke funksjoner. Legger til noen andre måter å gjøre funksjoner også senere.
 
+### Condition (if-else and Switch-case)
+
 
 
 ## Youtube videoer
