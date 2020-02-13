@@ -50,6 +50,7 @@ var isSame = 42;
 // Gi variabelen 'value' en verdi (tall eller tekst) og se når den sjekkes i koden under.
 var value;
 var message = "Verdien du tok var ";
+var nameOfGMan = "gunnar";
 
 switch(value) { 
     // kan også hardkode inn verdien inni () i switchen. Eks: Switch(32), men da er switchen unødvendig
@@ -60,7 +61,7 @@ switch(value) {
         break;
     case "Gunnar": console.log(message + "Gunnar?");
         break;
-    case "gunnar": console.log(message + "gunnar med liten g?");
+    case nameOfGMan: console.log(message + "gunnar med liten g?");
         break;
     default: console.log("Du oppga ingen verdi som ble sjekket i Switchen"); 
 }
@@ -87,4 +88,7 @@ switch(boolValue){
 
 // bonus: vet du hvorfor koden aldri leser noe annet enn første case om boolValue er usann(false)?
 
-console.log(true < 2);
+
+// Oppgave 2
+// Lag en switch case som sjekker om verdien som kommer inn er ditt navn eller din venn sin.
+// Om ingen stemmer, send en melding tilbake til bruker som du selv velger skal si :P
