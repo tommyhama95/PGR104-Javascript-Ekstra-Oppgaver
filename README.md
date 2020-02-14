@@ -31,6 +31,10 @@
 #### Går gjennom bruk av if-else og Switch-cases.
 
 
+## Ekstra læring fra W3School
+### Om du ønsker å jobbe litt mer med grunnleggende Javascript, gå via linken for å gjøre en quiz fra W2school
+[W3school quiz](https://www.w3schools.com/js/js_quiz.asp)
+
 
 ## Youtube videoer
 ### Programming with Mosh -> https://www.youtube.com/watch?v=W6NZfCO5SIk&t=674s
