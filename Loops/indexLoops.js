@@ -4,7 +4,7 @@
 
 // Bruker nøkkelorder ¨for¨ for å kunne si til javascript at vi skal lage en loop/løkke
 
-/* Den kjennerelle code strukturen
+/* Den kjennerelle kode strukturen
     for(start kondisjon; mens sant/true; oppførsel) {
         Koden som skal kjøres x antall ganger som vi spesifiserer inne i () over.
     }
@@ -107,3 +107,56 @@ for(var i = 0; i < 5; i++) {
 
 
 /*****  While loops/løkker  *****/
+
+// Skrives med å bruke nøkkelordet ¨while¨
+// En while-loop/løkke vil kjøre så lenge det vi skriver inni () er sant/true. Når verdien blir
+// usann/false vil den stoppe.
+
+// While kode strukturen
+/*
+    while(mens sann/true) {
+        gjør dette
+    }
+*/
+
+// vi kan bruke samme eksempel som over for å kunne sende ut 5 hei meldinger
+// I en while-loop så har vi ikke en variabel som holder telling over hvor mange ganger
+// vi har kjørt koden i loopen/løkken. Vi må derfor lage en som holder styring på det.
+
+/* 
+    var number = 0;
+    while(number < 5) {
+
+    }
+*/
+// Kondisjonen inni while() blir det samme som den midtre delen av en for-loop.
+// En while loop trenger kun å vite denne verdien, hvordan den skal vite når den skal
+// stoppe loopen/løkken gjør vi inni { } kode blokken.
+// Om vi skulle kjørt koden over uten å gjøre noe med variabelen number som er 0
+// ville den kjørt for alltid. number blir aldri annerledes og derfor vil den kjøres for alltid.
+// Men ved å legge til i slutten av koden dette vil vi hindre infinite-loop som det kalles.
+// Eks: "number++;" eller "number = number + 1;"
+
+var number = 0;
+while(number < 5) {
+    console.log("Hello");
+    number++; // eller number = number + 1;
+}
+// Sjekk Console vinduet ditt etter "Hello"
+
+// Det som er viktig med hvordan koden er skrivet over er selve variabelen number og hvor
+// vi har laget den. Vi har nå laget number på det vi kaller global view. 
+// Det vil si at uansett hvor langt vi går inn i koder som en function eller loops/løkker
+// sine { } kode blokker vil vi kunne vite hva number er.
+
+// Om jeg hadde skrivet koden slik ville resultatet blitt annerledes:
+while(tall < 5) {
+    var tall = 0;
+    console.log("Heisann");
+    tall++;
+}
+// Om du ser i Console vinduet vil du se at denne while-loopen ikke kjøres i det hele tatt.
+// Dette er fordi når programmet leser linjen hvor vi skrev "while(tall < 5) {" så er det
+// fordi tall er ikke laget fra før av (deklarert og definert). Vi lager den INNI while-loopen
+// Ettersom tall blir først lest i delen jeg nevnte over så har den ingen verdi.
+// Dette vil sette kondisjonen (tall < 5) til usann/false og da vil programmet hoppe over while-loopen.

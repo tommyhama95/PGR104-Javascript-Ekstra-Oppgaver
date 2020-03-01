@@ -14,16 +14,16 @@
 # Tema og oppgaver
 ## Over så vil du se enkelte mappe navn. Trykk deg inn for å se forklaringer og oppgaver
 
-### Basics mappen - FERDIG?
+### Basics mappen 
 #### Her går vi igjennom det grunnleggende som man burde vite med hvordan man lagde variabler igjen og hva du kan forvente å se når vi koder med Javascript.
 
-### Array - FERDIG?
+### Array 
 #### Går for oss igjennom arrays, hva de kan brukes til, hvordan de fungerer og mer.
 
-### Object - FERDIG?
+### Object 
 #### Går for oss igjennom objecter, hva de brukes til, hvordan de fungerer og mer.
 
-### Functions - In Progress
+### Functions 
 #### Går igjennom hvordan lage og bruke funksjoner. Legger til noen andre måter å gjøre funksjoner også senere.
 
 ### Condition (if-else and Switch-case)
