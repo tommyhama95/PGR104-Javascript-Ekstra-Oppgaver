@@ -23,6 +23,9 @@
 ### Object 
 #### Går for oss igjennom objecter, hva de brukes til, hvordan de fungerer og mer.
 
+### DOM
+#### Går igjennom enkelte DOM eventer og teknikker for å manipulere og ende innholdet på en HTML side.
+
 ### Functions 
 #### Går igjennom hvordan lage og bruke funksjoner. Legger til noen andre måter å gjøre funksjoner også senere.
 
