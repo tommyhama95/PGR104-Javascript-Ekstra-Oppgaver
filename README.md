@@ -26,6 +26,9 @@
 ### DOM
 #### Går igjennom enkelte DOM eventer og teknikker for å manipulere og ende innholdet på en HTML side.
 
+### Eksamen2018
+#### Gjennomgang av eksamen fra 2018 med kode tilgjengelig og video link til forelesningen ligger i bunn av dokumentet eller her -> https://www.youtube.com/watch?v=v4wfwH2_ajE&feature=youtu.be
+
 ### Functions 
 #### Går igjennom hvordan lage og bruke funksjoner. Legger til noen andre måter å gjøre funksjoner også senere.
 
@@ -44,3 +47,6 @@
 ## Youtube videoer
 ### Programming with Mosh -> https://www.youtube.com/watch?v=W6NZfCO5SIk&t=674s
 #### Veldig flink som går igjennom det meste, en ting jeg vil at du skal tenke er at vi i timen bruker var for å deklarere variabler. I videoene brukes noe som heter let og const, disse brukes mer enn var, men tenk at de skal gjøre det samme. Det eneste er at const kan ikke endres på, verdien vil alltid være det du deklarerte den til å være =) 
+
+### Eksamen 2018 gjennomgang -> https://www.youtube.com/watch?v=v4wfwH2_ajE&feature=youtu.be
+#### Er video fra repetisjonsforelesningen der jeg går igjennom praktiske kode delen fra 2018 2.1 og 2.2. Vi gikk også igjennom litt Explicitt og Implicitt konvertering på slutten.
