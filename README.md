@@ -38,6 +38,9 @@
 ### Loops / Løkker
 #### Går gjennom bruken av for-loops og while-loops.
 
+### Repetisjon 2
+#### Gjennomgang av egen laget oppgave og kahoot spørsmål. Spørsmålene ligger tilgjengelig under 'Repetisjon2_NoCode.js'
+
 
 ## Ekstra læring fra W3School
 ### Om du ønsker å jobbe litt mer med grunnleggende Javascript, gå via linken for å gjøre en quiz fra W3school
@@ -50,3 +53,5 @@
 
 ### Eksamen 2018 gjennomgang -> https://www.youtube.com/watch?v=v4wfwH2_ajE&feature=youtu.be
 #### Er video fra repetisjonsforelesningen der jeg går igjennom praktiske kode delen fra 2018 2.1 og 2.2. Vi gikk også igjennom litt Explicitt og Implicitt konvertering på slutten.
+
+### Repetisjonsøkt 2 -> https://www.youtube.com/watch?v=5sP7b1sPQj4
